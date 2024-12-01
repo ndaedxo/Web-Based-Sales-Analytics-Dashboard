@@ -35,7 +35,7 @@ SalesPulse is a modern sales analytics dashboard built with React, TypeScript, a
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ndaedxo/Web-Based-Sales-Analytics-Dashboard.git
 cd salespulse
 ```
 
